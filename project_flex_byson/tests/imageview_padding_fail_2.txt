@@ -1,0 +1,9 @@
+<RelativeLayout
+android:layout_width="10"
+android:layout_height="10">
+	<ImageView
+        android:layout_width="10"
+	android:layout_height="10"
+	android:padding="a10"            
+	android:src="source"/>
+</RelativeLayout>

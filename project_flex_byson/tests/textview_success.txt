@@ -1,0 +1,11 @@
+<RelativeLayout
+android:layout_width="10"
+android:layout_height="10"
+android:id="id1">
+<TextView
+        android:layout_width="20"
+        android:layout_height="20"
+        
+        android:text="Dummy text"
+	android:id="id2"/>
+</RelativeLayout>

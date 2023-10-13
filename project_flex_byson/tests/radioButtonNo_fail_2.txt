@@ -1,0 +1,21 @@
+<RelativeLayout
+android:layout_width="10"
+android:layout_height="10">
+	<RadioGroup
+        android:layout_width="10"
+        android:layout_height="10"
+	android:radioButtonNo="two"
+	android:checkedButton="RB1"
+	android:id="RG1">
+        	<RadioButton
+        	android:layout_width="10"
+        	android:layout_height="10"
+        	android:id="RB1"
+       		android:text="Option 1"/>
+        	<RadioButton
+        	android:layout_width="10"
+        	android:layout_height="10"
+        	android:id="RB2"
+        	android:text="Option 2"/>
+    	</RadioGroup>
+</RelativeLayout>
